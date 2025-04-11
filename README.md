@@ -1,5 +1,15 @@
 # CypressAutomation
 
+Debug Mode: to run Cypress in debug mode, you can use the following command:
+npx cypress open
+
+Headless Mode: to run Cypress in headless mode, you can use the following command:
+npx cypress run
+
+Git workflow strategy is available here: /docs/git-strategy.md
+
+Essential hotkeys are available here: /docs/hotkeys.md
+
 # Node modules
 node_modules/
 
@@ -27,6 +37,3 @@ jspm_packages/
 # Miscellaneous
 .DS_Store
 Thumbs.db
-
-
-Show less
